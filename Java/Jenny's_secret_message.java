@@ -1,3 +1,5 @@
+//version 1
+
 package Java;
 public class Greeter {
   public static String greet(String name) {
