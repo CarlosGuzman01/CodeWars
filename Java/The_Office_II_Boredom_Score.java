@@ -1,3 +1,6 @@
+//version 1
+
+
 public class TheOffice {
   public static String boredom(Person[] staff) {
     
